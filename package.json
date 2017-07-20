@@ -1,0 +1,12 @@
+{
+  "name": "react-hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ben Lauderbaugh <benjlaud1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.5.1"
+  }
+}
